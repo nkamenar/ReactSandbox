@@ -10,6 +10,7 @@ const App = () => {
     return (
         <div>
             <SearchBar/>
+            test
         </div>
     );
 };
